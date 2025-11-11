@@ -3,6 +3,12 @@
 This project demonstrates how to use Python, Pandas, and Seaborn for data analysis and visualization.
 It uses the Palmer Penguins dataset to teach basic and advanced data visualization techniques.
 
+##  Run Online
+
+You can run this project directly in your browser using **Binder**:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagivba/penguins-visualization-project/HEAD)
+
+
 ## Installation
 
 ### 1. Clone or Download the Project
